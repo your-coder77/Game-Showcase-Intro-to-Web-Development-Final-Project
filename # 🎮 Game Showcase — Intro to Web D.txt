@@ -1,0 +1,59 @@
+# 🎮 Game Showcase — Intro to Web Development Final Project
+
+This project is a three‑page interactive website showcasing **iconic video games** and **upcoming anticipated titles**. It was built from scratch using **HTML, CSS, and JavaScript** as part of my *Intro to Web Development* course.
+
+---
+
+## 🌐 Pages
+
+| Page | File | Description |
+|-------|------|--------------|
+| **Game Info** | `index.html` | Displays classic and fan‑favorite video games using dynamic cards and hover animations. |
+| **Anticipated Games** | `price.html` | Features interactive “flip‑box” cards with JavaScript‑generated data (price, release date, platform, etc.). |
+| **About** | `about.html` | Personal introduction page explaining the project concept and author background. |
+
+---
+
+## 🧠 Features
+
+- 🎨 Responsive grid layout with hover and flip animations  
+- ⚙️ JavaScript data injection for game information (`Fields` constructor + dynamic HTML)  
+- 🖼️ Image galleries with descriptive overlays  
+- 🧩 Organized module structure (separate HTML, CSS, JS files)  
+- 💬 Personal “About Me” section for context  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** — semantic structure  
+- **CSS3** — grid & flexbox layout, animations  
+- **JavaScript (ES6)** — object constructors, event handling, DOM updates  
+
+---
+
+## 📸 Preview
+
+*(Add screenshots from your project here. Example:)*  
+![Preview](./images/preview.png)
+
+---
+
+## 📬 Author
+
+**Name:** John Delfin  
+**Email:** [johnshamaki11@gmail.com](mailto:johnshamaki11@gmail.com)  
+**Major:** Computer Science, Sophomore — Dominican University
+
+---
+
+## 🧭 Future Enhancements
+
+- Add a live game search bar  
+- Implement dark/light mode toggle  
+- Add media queries for improved mobile layout  
+- Include animations or transitions via JavaScript instead of pure CSS  
+
+---
+
+*Final project for “Intro to Web Development.”*
